@@ -1,4 +1,5 @@
-https://www.youtube.com/watch?v=HVw_NZUhDKs
+https://www.youtube.com/watch?v=lZ2SwKxcc88
+https://docs.google.com/document/d/1jpT_pVYPxKvl9g8ArXoDBP32vAM2zMz8kRqtZ7vIZNQ/edit?pli=1
 
 # Getting Started with Create React App
 
