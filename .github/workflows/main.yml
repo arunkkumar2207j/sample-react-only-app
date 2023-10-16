@@ -29,4 +29,4 @@ jobs:
          aws-region: ap-south-1
 
      - name: Deploy static site to S3 bucket
-				run: aws s3 sync ./build s3://sample-react-only-app-actions
+			 run: aws s3 sync ./build s3://sample-react-only-app-actions
